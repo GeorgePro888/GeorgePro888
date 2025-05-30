@@ -1,46 +1,61 @@
-# � Hi there, I'm George Capraroiu
+# 👋 Hi there, I'm George — aka GeorgePro888
 
-With over **10 years of experience** in **web & mobile development** and **data scraping**, I specialize in building full-stack applications that are fast, scalable, and user-friendly.
-
----
-
-## � About Me
-
-- � Full-stack developer — **Frontend & Backend**
-- �️ Experienced in **web scraping** and data automation
-- � Passionate about crafting modern, high-performance apps
-- � Always learning, building, and contributing
+Welcome to my GitHub profile! I'm a veteran in the world of technology with over a decade of hands-on programming experience, and 7+ years of deep specialization in professional web development.
 
 ---
 
-## �️ Tech Stack
+## 💻 About Me
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white)
-
-### Others
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- 🔧 Full-stack web developer with 10+ years of experience
+- 🚀 Expert in building robust and scalable web applications
+- 💬 Strong communication and leadership skills — from team member to CTO
+- 🔍 Adept at finding and fixing issues fast — whether debugging code or extracting data through web scraping
+- 🧠 A developer by nature, with a passion for learning, sharing, and building
 
 ---
 
-## � GitHub Stats
+## 🛠️ Technologies & Tools
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=georgepro888&show_icons=true&theme=radical)
+### 💡 Languages
+- JavaScript, TypeScript, Python, Ruby, PHP, C#, HTML5, CSS3, SQL
+
+### ⚙️ Frameworks & Libraries
+- React.js, Vue.js, Angular.js, Redux, Web3.js
+- ASP.NET, ASP.NET Core MVC, Django, Ruby on Rails, Laravel, CakePHP, CodeIgniter
+
+### 🎨 UI & Styling
+- Bootstrap, Material UI, Tailwind CSS, Vuexy
+
+### 🗄️ Databases & APIs
+- MySQL, PostgreSQL, MongoDB
+- REST API Development & Integration
+
+### 🧰 Dev Tools
+- Git & GitHub, Visual Studio Code, Docker, Postman
 
 ---
+
+## 🌐 What I Do
+
+- **Frontend Development**: Responsive, accessible, and fast UIs using modern frameworks
+- **Backend Development**: Scalable APIs and server-side logic with strong architecture
+- **Full-Stack Applications**: From wireframes to deployment
+- **Data Scraping**: Fast and accurate web scraping for data mining projects
+- **Technical Leadership**: Project management, mentoring, architectural planning
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always up for collaboration on interesting projects, mentoring, or just a good developer conversation.
+
+> ⚡ Fun Fact: I can code all night and still be the first one online for a stand-up meeting.
+
+---
+
+**📬 Reach Me**
+- GitHub: [GeorgePro888](https://github.com/GeorgePro888)
+
+Thanks for stopping by! ⭐️
 
 
