@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a veteran in the world of technology with over
 - JavaScript, TypeScript, Python, Ruby, PHP, C#, HTML5, CSS3, SQL
 
 ### ⚙️ Frameworks & Libraries
-- React.js, Vue.js, Angular.js, Redux, Web3.js
-- ASP.NET, ASP.NET Core MVC, Django, Ruby on Rails, Laravel, CakePHP, CodeIgniter
+- React.js, Vue.js, Angular.js, Redux, Web3.js, Next.js, Nuxt.js
+- ASP.NET, ASP.NET Core MVC, Django, Ruby on Rails, Laravel, CakePHP, CodeIgniter, WordPress
 
 ### 🎨 UI & Styling
 - Bootstrap, Material UI, Tailwind CSS, Vuexy
